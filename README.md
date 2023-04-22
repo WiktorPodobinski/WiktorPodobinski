@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I'm Wiktor and I'm a self taught programmer. Feel free to take a look at my work :--)
 
 ## Languages & tools
 
