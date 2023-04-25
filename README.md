@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Wiktor and I'm a self taught programmer. Feel free to take a look at my work :--)
+![](https://komarev.com/ghpvc/?username=WiktorPodobinski&style=for-the-badge&color=red)
 
 ## Languages & tools
 
