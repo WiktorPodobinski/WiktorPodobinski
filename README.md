@@ -2,6 +2,7 @@
 
 I'm Wiktor and I'm a self taught programmer. Feel free to take a look at my work :--) <br />
 ![](https://komarev.com/ghpvc/?username=WiktorPodobinski&style=for-the-badge&color=red) <br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wpodobinski/)
 
 
 ## Languages & tools
