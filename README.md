@@ -3,7 +3,7 @@
 I'm Wiktor and I'm a self taught programmer. Started with JS & React, currently trying to master Java and related. My learning plans include: <br />
 ***Java, Spring & everything around it*** <br />
 ***Databases*** <br />
-***getting deeper in frontend + exploring other JS/TS frameworks*** <br />
+***diving deeper into frontend + exploring other JS/TS frameworks*** <br />
 <br />
 ![](https://komarev.com/ghpvc/?username=WiktorPodobinski&style=for-the-badge&color=red)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wpodobinski/)
