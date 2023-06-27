@@ -11,7 +11,7 @@ I'm Wiktor and I'm a self taught programmer. Started with JS & React, currently 
 
 ## Languages & tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,java,maven,html,css,graphql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,java,maven,html,css,graphql,git,github)](https://skillicons.dev)
 
 <!--
 **WiktorPodobinski/WiktorPodobinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
